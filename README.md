@@ -1,5 +1,5 @@
 # Cancer risk prediction app
-The risk prediction app will be found in the folder `Deadly-Cancer-Prediction`.
+The risk prediction app will be found in the folder `Deadly-Cancer-Prediction`. Just download the `.apk` file to run it on android.
 ![risk-prediction-app-1](pics/risk-prediction-app-1.png)
 
 The questionnaire is set based on the findings of the paper.
